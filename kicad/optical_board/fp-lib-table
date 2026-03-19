@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PPG_Project")(type "KiCad")(uri "${PPG_PRJ_LIB}/footprints.pretty")(options "")(descr ""))
+)
